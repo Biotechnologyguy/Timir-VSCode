@@ -1,0 +1,21 @@
+{
+  "name": "Timir",
+  "displayName": "Timir",
+  "description": "Dark Theme for Vs Code By Shubham Thorat aka Biotechnologyguy",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Timir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Timir-color-theme.json"
+      }
+    ]
+  }
+}
