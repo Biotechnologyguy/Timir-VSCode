@@ -3,6 +3,22 @@
   "displayName": "Timir",
   "description": "Dark Theme for Vs Code By Shubham Thorat aka Biotechnologyguy",
   "version": "0.0.1",
+  "publisher": "ShubhamThorat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Biotechnologyguy/Timir-VSCode"
+  },
+  "keywords": [
+    "Timir Dark Theme",
+    "theme",
+    "dark theme",
+    "dark",
+    "timir",
+    "shubham thorat",
+    "night",
+    "night theme",
+    "night owl"
+  ],
   "engines": {
     "vscode": "^1.79.0"
   },
