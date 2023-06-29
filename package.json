@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/Biotechnologyguy/Timir-VSCode"
   },
+  "icon": ",/images/logo.png",
   "keywords": [
     "Timir Dark Theme",
     "theme",
