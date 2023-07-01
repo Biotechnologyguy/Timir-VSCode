@@ -1,6 +1,19 @@
-# Timir Dark Theme for Visual Studio Code
+<p align="center">
+  <img src="./images/logo.png" alt="Timir Dark Theme" width="500" height="500">
+</p>
 
-![Timir Dark Theme](./images/logo.png)
+<h1 align="center">Timir Dark Theme for Visual Studio Code</h1>
+
+---
+
+Timir : Embrace the Shadows
+
+A minimal, Maastricht Blue dark theme for Visual Studio Code.
+
+[![VS Code Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/{extension-id})](https://marketplace.visualstudio.com/items?itemName=ShubhamThorat.Timir)
+[![VS Code Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/{extension-id})](https://marketplace.visualstudio.com/items?itemName=ShubhamThorat.Timir)
+[![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/{extension-id})](https://marketplace.visualstudio.com/items?itemName=ShubhamThorat.Timir)
+
 
 Timir is a visually striking dark theme for Visual Studio Code that provides an immersive coding experience. Inspired by the Sanskrit word "Timir" meaning darkness, this theme aims to create a sleek and elegant environment for developers who prefer a darker color scheme.
 
