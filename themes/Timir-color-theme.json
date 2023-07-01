@@ -42,7 +42,7 @@
     "tree.indentGuidesStroke": "#2f3b54",
 
     // Activity Bar
-    "activityBar.background": "#011627",
+    "activityBar.background": "#01101cdd",
     "activityBar.dropBorder": "#2f3a52",
     "activityBar.foreground": "#a2aabb",
     "activityBar.inactiveForeground": "#53648d99",
@@ -50,11 +50,11 @@
     "activityBarBadge.background": "#efdb56",
     "activityBarBadge.foreground": "#09162ecf",
     "activityBar.activeBorder": "#a2aabb",
-    "activityBar.activeBackground": "#011627",
+    "activityBar.activeBackground": "#01101cdd",
     "activityBar.activeFocusBorder": "#a2aabb",
 
     // Side Bar
-    "sideBar.background": "#011627",
+    "sideBar.background": "#01101cdd",
     "sideBar.foreground": "#a2aabb",
     "sideBar.border": "#020e2f",
     "sideBarTitle.foreground": "#efdb56",
@@ -72,9 +72,31 @@
     // Badge
     // Profiles
     // Minimap
+
     // Editor Groups & Tabs
+    "editorGroup.border": "#01101c",
+    "editorGroup.dropBackground": "#172a39",
+    "editorGroupHeader.noTabsBackground": "#01101cdd",
+    "editorGroupHeader.tabsBackground": "#01101cdd",
+    "editorGroupHeader.tabsBorder": "#01101cdd",
+    "editorGroupHeader.border":"#01101cdd",
+    "editorGroup.emptyBackground": "#01101cdd",
+    "editorGroup.focusedEmptyBorder": "#1d2433",
+    "tab.activeBackground":"#0f1c27cf",
+    // "tab.unfocusedActiveBackground":"#ff0000",
+    "tab.activeForeground":"#a2aabb",
+    "tab.border":"#01101cdd",
+    "tab.activeBorder":"#efdb56",
+    // "tab.activeBorderTop":"#efdb56",
+    "tab.inactiveBackground":"#01101cdd",
+    "tab.inactiveForeground":"#a2aabb",
+    "tab.hoverBackground":"#00223ebe",
+    "tab.hoverForeground":"#efdb56",
+    
+
+
     // Editor colors
-    "editor.background": "#0115257e",
+    "editor.background": "#0f1c27cf",
     "editor.foreground": "#a2aabb",
     "editorLineNumber.foreground": "#8d86b755",
     "editorLineNumber.activeForeground": "#6f84b5",
@@ -91,16 +113,16 @@
     // Panel colors
 
     // Status Bar colors
-    "statusBar.background": "#011627",
+    "statusBar.background": "#01101cdd",
     "statusBar.foreground": "#a2aabb",
-    "statusBar.border": "#011627",
-    "statusBar.debuggingBackground": "#011627",
+    "statusBar.border": "#01101cdd",
+    "statusBar.debuggingBackground": "#01101cdd",
     "statusBar.debuggingForeground": "#a2aabb",
-    "statusBar.noFolderBackground": "#011627",
+    "statusBar.noFolderBackground": "#01101cdd",
     "statusBar.noFolderForeground": "#a2aabb",
     "statusBarItem.activeBackground": "#2f3b54",
     "statusBarItem.hoverBackground": "#1d2433",
-    "statusBarItem.remoteBackground": "#011627",
+    "statusBarItem.remoteBackground": "#01101cdd",
     "statusBarItem.remoteForeground": "#a2aabb",
 
     // Title Bar colors
@@ -110,12 +132,12 @@
     // Banner colors
 
     // Extensions colors
-    "extensionButton.prominentForeground": "#011627",
+    "extensionButton.prominentForeground": "#01101cdd",
     "extensionButton.prominentBackground": "#efdb56",
     "extensionButton.background": "#efdb56",
-    "extensionButton.foreground": "#011627",
+    "extensionButton.foreground": "#01101cdd",
     "extensionButton.hoverBackground": "#efdb56c7",
-    "extensionButton.separator": "#011627",
+    "extensionButton.separator": "#01101cdd",
     "extensionIcon.starForeground": "#efdb56",
 
     // Quick picker colors
@@ -150,17 +172,8 @@
     // Ports Colors
     // Comments View colors
 
-    // Editor Groups
-    // "editorGroup.border": "#2f3b54",
-    // "editorGroup.dropBackground": "#2f3b54",
-    // "editorGroupHeader.noTabsBackground": "#1d2433",
-    "editorGroupHeader.tabsBackground": "#09162ecf",
-    "editorGroupHeader.tabsBorder": "#09162ecf",
-    // "editorGroup.emptyBackground": "#1d2433",
-    // "editorGroup.focusedEmptyBorder": "#1d2433",
-
     // Editor selection colors
-    "editor.selectionBackground": "#1b2f5a6c",
+    "editor.selectionBackground": "#0c1936e3",
     "editor.selectionForeground": "#a2aabc",
     "editor.inactiveSelectionBackground": "#8695b777",
     "editor.selectionHighlightBackground": "#0f1e3dd2",
