@@ -17,6 +17,7 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=ShubhamThorat.Timir">
     <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/ShubhamThorat.Timir" />
   </a>
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 </p>
 
 
