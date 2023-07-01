@@ -9,20 +9,28 @@
     "descriptionForeground": "#a2aabb",
     "errorForeground": "#cd545d",
 
+    // Progress bar
+    "progressBar.background": "#efdb56",
 
-	 // Progress bar
-	 "progressBar.background": "#efdb56",
+    // Text colors
+    "textBlockQuote.background": "#2f3b54",
+    "textBlockQuote.border": "#2f3b54",
+    "textCodeBlock.background": "#171c28",
+    "textLink.activeForeground": "#efdb56",
+    "textLink.foreground": "#efdb56",
+    "textPreformat.foreground": "#d7dce2",
+    "textSeparator.foreground": "#d7dce2",
 
     // Lists and trees
     "list.activeSelectionBackground": "#202b41",
     "list.activeSelectionForeground": "#fcfcfc",
-	"list.dropBackground": "#2c3b5b",
+    "list.dropBackground": "#2c3b5b",
     "list.focusBackground": "#2b3b5c",
     "list.focusForeground": "#a2aabb",
-	"list.highlightForeground": "#efdb56",
+    "list.highlightForeground": "#efdb56",
     "list.hoverBackground": "#1b263d",
     "list.hoverForeground": "#a2aabb",
-	"list.inactiveSelectionBackground": "#2f3b54",
+    "list.inactiveSelectionBackground": "#2f3b54",
     "list.inactiveSelectionForeground": "#a2aabb",
     "list.inactiveFocusBackground": "#2f3b54",
     "list.invalidItemForeground": "#cd545d",
@@ -33,7 +41,6 @@
     "listFilterWidget.noMatchesOutline": "#cd545d",
     "tree.indentGuidesStroke": "#2f3b54",
 
-	
     // Activity Bar
     "activityBar.background": "#011627",
     "activityBar.dropBorder": "#2f3a52",
@@ -44,7 +51,7 @@
     "activityBarBadge.foreground": "#09162ecf",
     "activityBar.activeBorder": "#a2aabb",
     "activityBar.activeBackground": "#011627",
-    "activityBar.activeFocusBorder":"#a2aabb",
+    "activityBar.activeFocusBorder": "#a2aabb",
 
     // Side Bar
     "sideBar.background": "#011627",
@@ -57,12 +64,69 @@
     "sideBarSectionHeader.foreground": "#efdb56",
     "sideBarSectionHeader.border": "#091122d3",
 
+    // Action colors
+    // Button control
+    // Dropdown control
+    // Input control
+    // Scrollbar control
+    // Badge
+    // Profiles
+    // Minimap
+    // Editor Groups & Tabs
+    // Editor colors
+    "editor.background": "#0115257e",
+    "editor.foreground": "#a2aabb",
+    "editorLineNumber.foreground": "#8d86b755",
+    "editorLineNumber.activeForeground": "#6f84b5",
+    "editorCursor.background": "#1d2433",
+    "editorCursor.foreground": "#ffcc66",
+    // MANY MORE TO ADD
+
+    // Diff editor colors
+    // Chat colors
+    // Interactive Editor colors
+    // Editor widget colors
+    // Peek view colors
+    // Merge conflicts colors
+    // Panel colors
+    // Status Bar colors
+    // Title Bar colors
+    // Menu Bar colors
+    // Command Center colors
+    // Notification colors
+    // Banner colors
+    // Extensions colors
+    // Quick picker colors
+    // Keyboard shortcut table colors
+    // Integrated Terminal colors
+    // Debug colors
+    // Testing colors
+    // Welcome page colors
+    "welcomePage.background": "#0115257e",
+    "welcomePage.progress.background": "#0115257e",
+    "welcomePage.progress.foreground": "#efdb56",
+    "welcomePage.tileBackground": "#01122093",
+    "welcomePage.tileHoverBackground": "#2237492e",
+    "walkThrough.embeddedEditorBackground": "#171c28",
+    "walkthrough.stepTitle.foreground": "#2f3b5499",
+
+    // Source Control colors
     // git colors
     "gitDecoration.ignoredResourceForeground": "#5970a677",
     "gitDecoration.modifiedResourceForeground": "#8aceb9",
     "gitDecoration.conflictingResourceForeground": "#dd4650",
     "gitDecoration.untrackedResourceForeground": "#bae67e",
     "gitDecoration.deletedResourceForeground": "#c92e38",
+
+    // Settings Editor colors
+    // Breadcrumbs colors
+    // Snippets colors
+    // Symbol Icons colors
+    // Debug Icons colors
+    // Notebook colors
+    // Chart colors
+    // Ports Colors
+    // Comments View colors
 
     // Editor Groups
     // "editorGroup.border": "#2f3b54",
@@ -72,14 +136,6 @@
     "editorGroupHeader.tabsBorder": "#09162ecf",
     // "editorGroup.emptyBackground": "#1d2433",
     // "editorGroup.focusedEmptyBorder": "#1d2433",
-
-    // Editor colors
-    "editor.background": "#0115257e",
-    "editor.foreground": "#a2aabb",
-    "editorLineNumber.foreground": "#8d86b755",
-    "editorLineNumber.activeForeground": "#6f84b5",
-    "editorCursor.background": "#1d2433",
-    "editorCursor.foreground": "#ffcc66",
 
     // Editor selection colors
     "editor.selectionBackground": "#1b2f5a6c",
@@ -92,9 +148,7 @@
     "editor.wordHighlightBackground": "#46547577",
     "editor.wordHighlightBorder": "#8695b7",
     "editor.wordHighlightStrongBackground": "#6b81b577",
-    "editor.wordHighlightStrongBorder": "#ffcc66",
-
-
+    "editor.wordHighlightStrongBorder": "#ffcc66"
   },
   "tokenColors": [
     {
