@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="./images/logo.png" alt="Timir Dark Theme" width="100" height="100">
+  <img alt="Timir Logo" src="./images/logo.png" width="100" />
 </p>
-
-<h1 align="center">Timir Dark Theme for Visual Studio Code</h1>
-
-Timir : Embrace the Shadows
-
-A minimal, Maastricht Blue dark theme for Visual Studio Code.
+<h1 align="center">
+  Timir : Embrace the Shadows
+</h1>
+<p align="center">
+  A minimal, Maastricht Blue dark theme for Visual Studio Code.
+</p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=ShubhamThorat.Timir">
     <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/ShubhamThorat.Timir?color=brightgreen" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+  <a href="https://marketplace.visualstudio.com/items?itemName=ShubhamThorat.Timir">
     <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/ShubhamThorat.Timir" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+  <a href="https://marketplace.visualstudio.com/items?itemName=ShubhamThorat.Timir">
     <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/ShubhamThorat.Timir" />
   </a>
 </p>
