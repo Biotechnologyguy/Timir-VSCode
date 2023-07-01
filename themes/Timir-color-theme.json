@@ -89,7 +89,20 @@
     // Peek view colors
     // Merge conflicts colors
     // Panel colors
+
     // Status Bar colors
+    "statusBar.background":"#011627",
+    "statusBar.foreground":"#a2aabb",
+    "statusBar.border":"#011627",
+    "statusBar.debuggingBackground": "#011627",
+    "statusBar.debuggingForeground": "#a2aabb",
+    "statusBar.noFolderBackground": "#011627",
+    "statusBar.noFolderForeground": "#a2aabb",
+    "statusBarItem.activeBackground": "#2f3b54",
+    "statusBarItem.hoverBackground": "#1d2433",
+    "statusBarItem.remoteBackground": "#011627",
+    "statusBarItem.remoteForeground": "#a2aabb",
+    
     // Title Bar colors
     // Menu Bar colors
     // Command Center colors
