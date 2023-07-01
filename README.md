@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="./images/logo.png" alt="Timir Dark Theme" width="500" height="500">
+  <img src="./images/logo.png" alt="Timir Dark Theme" width="300" height="300">
 </p>
 
 <h1 align="center">Timir Dark Theme for Visual Studio Code</h1>
-
----
 
 Timir : Embrace the Shadows
 
