@@ -17,6 +17,9 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=ShubhamThorat.Timir">
     <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/ShubhamThorat.Timir" />
   </a>
+  <a href="https://github.com/Biotechnologyguy/Timir-VSCode/blob/main/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  </a>
 </p>
 
 
