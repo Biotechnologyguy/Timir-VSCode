@@ -79,21 +79,19 @@
     "editorGroupHeader.noTabsBackground": "#01101cdd",
     "editorGroupHeader.tabsBackground": "#01101cdd",
     "editorGroupHeader.tabsBorder": "#01101cdd",
-    "editorGroupHeader.border":"#01101cdd",
+    "editorGroupHeader.border": "#01101cdd",
     "editorGroup.emptyBackground": "#01101cdd",
     "editorGroup.focusedEmptyBorder": "#1d2433",
-    "tab.activeBackground":"#0f1c27cf",
+    "tab.activeBackground": "#0f1c27cf",
     // "tab.unfocusedActiveBackground":"#ff0000",
-    "tab.activeForeground":"#a2aabb",
-    "tab.border":"#01101cdd",
-    "tab.activeBorder":"#efdb56",
+    "tab.activeForeground": "#a2aabb",
+    "tab.border": "#01101cdd",
+    "tab.activeBorder": "#efdb56",
     // "tab.activeBorderTop":"#efdb56",
-    "tab.inactiveBackground":"#01101cdd",
-    "tab.inactiveForeground":"#a2aabb",
-    "tab.hoverBackground":"#00223ebe",
-    "tab.hoverForeground":"#efdb56",
-    
-
+    "tab.inactiveBackground": "#01101cdd",
+    "tab.inactiveForeground": "#a2aabb",
+    "tab.hoverBackground": "#00223ebe",
+    "tab.hoverForeground": "#efdb56",
 
     // Editor colors
     "editor.background": "#0f1c27cf",
@@ -128,7 +126,17 @@
     // Title Bar colors
     // Menu Bar colors
     // Command Center colors
+
     // Notification colors
+    "notificationCenter.border": "#01101cdd",
+    "notificationCenterHeader.foreground": "#a2aabb",
+    "notificationCenterHeader.background": "#01101cdd",
+    "notificationToast.border": "#01101cdd",
+    "notifications.foreground": "#a2aabb",
+    "notifications.background": "#01101cdd",
+    "notifications.border": "#01101cdd",
+    "notificationLink.foreground": "#a2aabb",
+
     // Banner colors
 
     // Extensions colors
