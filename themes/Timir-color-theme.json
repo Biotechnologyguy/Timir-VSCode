@@ -75,7 +75,11 @@
     // Dropdown control
     // Input control
     // Scrollbar control
+
     // Badge
+    "badge.foreground": "#0f1a27cf",
+    "badge.background": "#efdb56",
+    
     // Profiles
     // Minimap
 
