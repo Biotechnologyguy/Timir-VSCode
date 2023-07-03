@@ -65,7 +65,13 @@
     "sideBarSectionHeader.border": "#091122d3",
 
     // Action colors
+
     // Button control
+    "button.background": "#efdb56",
+    "button.foreground": "#01101add",
+    "button.separator":"#01101add",
+    "button.hoverBackground": "#ffcc6699",
+
     // Dropdown control
     // Input control
     // Scrollbar control
