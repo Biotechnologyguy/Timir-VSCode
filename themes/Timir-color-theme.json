@@ -69,8 +69,8 @@
     // Button control
     "button.background": "#efdb56",
     "button.foreground": "#01101add",
-    "button.separator":"#01101add",
-    "button.hoverBackground": "#ffcc6699",
+    "button.separator": "#01101add",
+    "button.hoverBackground": "#efdb5699",
 
     // Dropdown control
     // Input control
@@ -79,7 +79,7 @@
     // Badge
     "badge.foreground": "#0f1a27cf",
     "badge.background": "#efdb56",
-    
+
     // Profiles
     // Minimap
 
@@ -160,7 +160,31 @@
 
     // Quick picker colors
     // Keyboard shortcut table colors
+
     // Integrated Terminal colors
+    "terminal.background": "#01101add",
+    "terminal.border": "#01101add",
+    "terminal.foreground": "#a2aabb",
+    "terminal.ansiBlack": "#2f3b54",
+    "terminal.ansiBlue": "#5dbed2",
+    "terminal.ansiBrightBlue": "#5dbed2",
+    "terminal.ansiBrightCyan": "#5dbed2",
+    "terminal.ansiBrightGreen": "#bae67e",
+    "terminal.ansiBrightBlack": "#444a5e",
+    "terminal.ansiBrightMagenta": "#c3a6ff",
+    "terminal.ansiBrightRed": "#ef6b73",
+    "terminal.ansiBrightWhite": "#a2aabb",
+    "terminal.ansiBrightYellow": "#efdb56",
+    "terminal.ansiCyan": "#5dbed2",
+    "terminal.ansiGreen": "#bae67e",
+    "terminal.ansiMagenta": "#c3a6ff",
+    "terminal.ansiRed": "#ef6b73",
+    "terminal.ansiWhite": "#a2aabb",
+    "terminal.ansiYellow": "#efdb56",
+    "terminal.selectionBackground": "#8695b733",
+    "terminalCursor.background": "#efdb56",
+    "terminalCursor.foreground": "#efdb56",
+
     // Debug colors
     // Testing colors
     // Welcome page colors
@@ -192,7 +216,7 @@
 
     // Editor selection colors
     "editor.selectionBackground": "#0c1936e3",
-    "editor.selectionForeground": "#a2aabc",
+    "editor.selectionForeground": "#a2aabb",
     "editor.inactiveSelectionBackground": "#8695b777",
     "editor.selectionHighlightBackground": "#0f1e3dd2",
     "editor.selectionHighlightBorder": "#8695b755",
@@ -201,7 +225,7 @@
     "editor.wordHighlightBackground": "#46547577",
     "editor.wordHighlightBorder": "#8695b7",
     "editor.wordHighlightStrongBackground": "#6b81b577",
-    "editor.wordHighlightStrongBorder": "#ffcc66"
+    "editor.wordHighlightStrongBorder": "#efdb56"
   },
   "tokenColors": [
     {
@@ -352,7 +376,7 @@
         "variable.other.object.property"
       ],
       "settings": {
-        "foreground": "#a2aabc"
+        "foreground": "#a2aabb"
       }
     },
     {
