@@ -54,5 +54,14 @@ Your feedback is valuable! If you have any questions, feedback, or need support,
 
 This theme is released under the [MIT License](LICENSE).
 
+## Demo Screenshots
+
+Below are some demo screenshots showcasing the Timir Dark Theme in action:
+
+![Screenshot 1](./images/demo-welcome-page.png)
+![Screenshot 2](./images/demo-extensions-tab.png)
+![Screenshot 3](./images/demo-css-file.png)
+![Screenshot 4](./images/demo-js-file.png)
+
 Enjoy coding with Timir Dark Theme!
 
