@@ -42,10 +42,6 @@ Timir is a visually striking dark theme for Visual Studio Code that provides an 
 6. Open the **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS) and select **Preferences: Color Theme**.
 7. Choose **Timir Dark** from the list of available themes.
 
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/Biotechnologyguy/Timir-VSCode/issues) or submit a pull request.
-
 ## Feedback and Support
 
 Your feedback is valuable! If you have any questions, feedback, or need support, you can reach out to me via [founder@biotechnologyguy.com](mailto:founder@biotechnologyguy.com) or [create an issue](https://github.com/Biotechnologyguy/Timir-VSCode/issues).
