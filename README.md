@@ -59,5 +59,5 @@ Below are some demo screenshots showcasing the Timir Dark Theme in action:
 ![Screenshot 3](./images/demo-js-file.png)
 ![Screenshot 4](./images/demo-extensions-tab.png)
 
-Enjoy coding with Timir Dark Theme!
+Happy Coding
 
